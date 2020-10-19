@@ -13,7 +13,7 @@
 - Execute node app using node index.js
 - npm ls
 - npm search express
-- npm publish
+- npm publish.
 
 ## Install nodemon
 
